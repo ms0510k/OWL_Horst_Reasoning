@@ -1,8 +1,8 @@
 # OWL_Horst_Reasoning
 
 ## Azure Databricks 코드 업로드
-![](import1.png)
-![](import2.png)
+![](import1.png){: width="300" height="300"){: .center}
+![](import2.png){: width="300" height="300"){: .center}
 
 ## Cluster Spec
 ```

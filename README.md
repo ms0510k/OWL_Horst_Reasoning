@@ -2,9 +2,12 @@
 
 ## Azure Databricks 코드 업로드
 1. Workspace 여백 우클릭
-![](import1.png)
+
+(import1.png)
+
 2. OWL-reasoner.dbc 파일 업로드 및 import
-![](import2.png)
+
+(import2.png)
 
 ## Cluster Spec
 ```

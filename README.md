@@ -4,7 +4,7 @@
 
 1. Workspace 여백 우클릭
 
-![](image/import1.png)
+![](image/import1.png {width=40px height=400px})
 
 2. OWL-reasoner.dbc 파일 업로드 및 import
 

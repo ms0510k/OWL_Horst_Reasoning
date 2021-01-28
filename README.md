@@ -10,7 +10,7 @@
 
 ![](image/import2.png)
 
-## Cluster Spec
+## Cluster 생성 및 Spec
 ```
 Master Node : 1
 Slave Node : 7

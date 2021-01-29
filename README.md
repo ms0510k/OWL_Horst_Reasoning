@@ -22,7 +22,7 @@ Memory : 56GB
 ```
 %fs mkdirs /FileStore/tables/OWL_data
 ```
-<center><img src="image/dataSpace.png" width="50%" height="50%"></center>
+<center><img src="image/dataSpace.png" width="70%" height="70%"></center>
 
 ## Data 업로드
 1. 좌측 메뉴 Data클릭 및 Add Data 클릭
@@ -35,7 +35,7 @@ Memory : 56GB
 
 3. 생성한 데이터 저장공간 OWL_data 선택 및 Save 클릭
 
-<center><img src="image/dataUpload3.png" width="50%" height="50%"></center>
+<center><img src="image/dataUpload3.png" width="70%" height="70%"></center>
 
 4. Data파일 드래그앤드롭 방식으로 업로드
 

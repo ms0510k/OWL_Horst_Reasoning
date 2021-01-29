@@ -6,11 +6,9 @@
 
 <center><img src="image/import1.png" width="50%" height="50%"></center>
 
-![](image/import1.png)
-
 2. OWL-reasoner.dbc 파일 업로드 및 import
 
-![](image/import2.png)
+<center><img src="image/import2.png" width="50%" height="50%"></center>
 
 ## Cluster 생성 및 Spec
 ```
@@ -24,24 +22,24 @@ Memory : 56GB
 ```
 %fs mkdirs /FileStore/tables/OWL_data
 ```
-![](image/dataSpace.png)
+<center><img src="image/dataSpace.png" width="50%" height="50%"></center>
 
 ## Data 업로드
 1. 좌측 메뉴 Data클릭 및 Add Data 클릭
 
-![](image/dataUpload1.png)
+<center><img src="image/dataUpload1.png" width="50%" height="50%"></center>
 
 2. Select 클릭
 
-![](image/dataUpload2.png)
+<center><img src="image/dataUpload2.png" width="50%" height="50%"></center>
 
 3. 생성한 데이터 저장공간 OWL_data 선택 및 Save 클릭
 
-![](image/dataUpload3.png)
+<center><img src="image/dataUpload3.png" width="50%" height="50%"></center>
 
 4. Data파일 드래그앤드롭 방식으로 업로드
 
-![](image/dataUpload4.png)
+<center><img src="image/dataUpload4.png" width="50%" height="50%"></center>
 
 ## 추론 시스템 실행
 1. 업로드한 코드 상단 메뉴에서 Run All 클릭

@@ -1,6 +1,18 @@
 # OWL_Horst_Reasoning
+This is an OWL-Horst Ontology Inference Engine Using Distributed Table Structure in Cloud Computing Environment.  
+If you have any questions or comments, please fell free to contact us by email [ms0510k@gmail.com].
 
-## Azure Databricks 코드 업로드
+## Data Format
+
+Data for this model is in `nt` format - basically Prolog syntax:
+
+```
+
+```
+
+## Running
+
+* __Azure Databricks 코드 업로드__
 
 1. Workspace 여백 우클릭
 
@@ -10,21 +22,23 @@
 
 <center><img src="image/import2.png" width="50%" height="50%"></center>
 
-## Cluster 생성 및 Spec
+* __Cluster 생성 및 Spec__
 ```
 Master Node : 1
 Slave Node : 7
 CPU : 2.4GHz 8Core (Node Per)
 Memory : 56GB
 ```
-## Data 저장 공간 생성
+* __Data 저장 공간 생성__
+
 1. 업로드한 코드에서 저장공간 생성 셀 실행
 ```
 %fs mkdirs /FileStore/tables/OWL_data
 ```
 <center><img src="image/dataSpace.png" width="70%" height="70%"></center>
 
-## Data 업로드
+* __Data 업로드__
+
 1. 좌측 메뉴 Data클릭 및 Add Data 클릭
 
 <center><img src="image/dataUpload1.png" width="50%" height="50%"></center>
@@ -41,7 +55,13 @@ Memory : 56GB
 
 <center><img src="image/dataUpload4.png" width="50%" height="50%"></center>
 
-## 추론 시스템 실행
+* __추론 시스템 실행__
+
 1. 업로드한 코드 상단 메뉴에서 Run All 클릭
 
 ![](image/run.png)
+
+## Citation
+```
+
+```

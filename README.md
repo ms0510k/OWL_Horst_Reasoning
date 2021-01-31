@@ -7,7 +7,14 @@ If you have any questions or comments, please fell free to contact us by email [
 Data for this model is in `nt` format - basically Prolog syntax:
 
 ```
-
+GraduateStudent47 type GraduateStudent
+GraduateStudent47 name "GraduateStudent47"
+GraduateStudent47 memberOf University7
+GraduateStudent47 emailAddress "GraduateStudent47@Department16.University7.edu"
+GraduateStudent47 telephone "xxx-xxx-xxxx"
+GraduateStudent47 takesCourse GraduateCourse5
+GraduateStudent47 undergraduateDegreeFrom University10
+GraduateStudent47 advisor AssistantProfessor6
 ```
 
 ## Running
